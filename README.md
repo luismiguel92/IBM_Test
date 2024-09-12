@@ -1,4 +1,4 @@
 # IBM_Test
 
-##Editing repository
+## Editing repository
 "It's a markdown file in this repository"
